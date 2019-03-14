@@ -97,7 +97,7 @@ class Labels extends AbstractApi
      */
     public function create($id, $color, $name)
     {
-        $colors = array('blue', 'green', 'orange', 'purple', 'red', 'yellow');
+        $colors = array('blue', 'green', 'orange', 'purple', 'red', 'yellow', 'sky');
 
         if (!in_array($color, $colors)) {
             throw new InvalidArgumentException(sprintf(
