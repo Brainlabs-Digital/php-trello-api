@@ -1,0 +1,19 @@
+name: php-trello
+status: active
+meta:
+  ignore: false
+ownership:
+  owner: hannah.td
+  maintainers:
+    - lidewij
+public-info:
+  reach: library
+  tech-implementation: false
+  release-date: 2019-01-01
+  departments:
+    - Tech
+  platforms:
+    - trello
+tech-info:
+  trackable: false
+deployments:
