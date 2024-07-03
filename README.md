@@ -1,3 +1,5 @@
+*Hasn't been used in years, archiving 2024-07-03 Emma*
+
 PHP Trello API v1 client
 ========================
 
