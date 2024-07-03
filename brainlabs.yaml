@@ -1,5 +1,5 @@
 name: php-trello
-status: active
+status: inactive
 description: Wrapper for the Trello API, based on an external open source repository.
 meta:
   ignore: false
